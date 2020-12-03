@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+.vscode
+package-lock.json
+.eslintcache
+.env
+
 # testing
 /coverage
 
